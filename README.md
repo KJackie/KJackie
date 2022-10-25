@@ -1,4 +1,4 @@
-### Hello world, I'm Avinash  👋 
+### Hello world, My nickname is Jackie, I love Jackie Chan and Lebron James  👋 
 
 -----
 
@@ -10,73 +10,18 @@
 
 -----
 
-![profile count](https://komarev.com/ghpvc/?username=avinash201199&color=red)&nbsp;
-[![GitHub avinash201199](https://img.shields.io/github/followers/avinash201199?label=follow&style=social)](https://github.com/avinash201199)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Hello everyone,I'm 2022 pass out graduate with BTech CSE. Love to code  , exploring Data Science these days. I enjoy collaborating with people on works of similar interest. 
+💡 &nbsp; Hello everyone, Love to code  , exploring Data Science these days. I enjoy collaborating with people on works of similar interest. 
 
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine learning and Data Science.\
-✍️ &nbsp;Apart from technical interests, I like dancing,watching movies, reading novels, playing Chess and badminton.\
+✍️ &nbsp;Apart from technical interests, I like watching movies, playing **basketball** reading novels. \
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions \
-✉️ &nbsp;You can email me at avinash201199@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1v5f_6yPmzy0rJQyA_pXtUQ6s663wsk4i/view?usp=sharing) for more details about my work experience.
+✉️ &nbsp;You can email me at blockmasterdev0307@gmail.com. I'll try to respond as soon as possible!\
 
 ### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
 
 -----
-### 📫 &nbsp; How to reach me:
-
-
-
-<a href="https://www.linkedin.com/in/avinash-singh-071b79175/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="https://instagram.com/michael201199/"><img src="https://img.shields.io/badge/-@michael201199-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-<a href="mailto:avinash201199@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://www.hackerrank.com/avinash201199"><img src="https://img.shields.io/badge/-HackerRank-E4405F?style=flat&logo=HackerRank&logoColor=white"/></a> &nbsp;
-<a href="https://leetcode.com/avinash201199/"><img src="https://img.shields.io/badge/-LeetCode-E4405F?style=flat&logo=LeetCode&logoColor=white"/></a> &nbsp;
-
------  
-
-
-<h1 align="center">Repositories to contribute in Hacktoberfest🤩</h1>
-
-| Repository Name      | Description | 
-| :---:        |    :----   |  
-| [Competition List](https://github.com/avinash201199/Competitions-and-Programs-List) | List of competitions for college students to participate and to enhance their skills. |
-| [Free courses with certificate](https://github.com/avinash201199/Free-courses-with-Certificates) | This repository contains list of free courses with certificates. Go ahead and add more courses in your knowledge. |
-| [To-Do-List](https://github.com/avinash201199/To-Do-List)    | This is a javascript TO-Do-List app , you can contribute to this project by adding some extra feature or by improving UI/UX.      
-| [Portfolio Collection](https://github.com/avinash201199/Portfolio-Collection)      | This repository contains collection of portfolio's . You can add your own repository.
-
-
-
-
-
-<h1 align="center">Projects</h1>
-
-</div>
-<div  align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=Avinash-Singh&show_icons=true&theme=great-gatsby" > 
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=car-price-prediction&show_icons=true&theme=great-gatsby" >
-
-
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=weather-app&show_icons=true&theme=great-gatsby" >
-
-
-
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=To-Do-List&show_icons=true&theme=great-gatsby"> 
-  
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=MemeGenerator&show_icons=true&theme=great-gatsby"> 
-  
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=Fidget-spinner&show_icons=true&theme=great-gatsby">
-  
-</div>
-
-
 
 ### Languages and Tools
 
@@ -107,21 +52,4 @@
  -----
   
 </p>
-
-
-
-<h1 align="center">Github Stats</h1>
-
-<div align="center">
-  
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=avinash201199&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
- </div>
- 
- 
-<img align="left" alt="Avinash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avinash201199&&show_icons=true&theme=dark" width="50%" />
-<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash201199&layout=compact&theme=dark" width="46%" />
-<br>
-<img src="https://activity-graph.herokuapp.com/graph?username=avinash201199&theme=xcode">
-
 
