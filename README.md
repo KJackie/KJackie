@@ -19,17 +19,16 @@
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions \
 ✉️ &nbsp;You can email me at blockmasterdev0307@gmail.com. I'll try to respond as soon as possible!\
 
-### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
-
------
-
 ### Languages and Tools
 
 <p>
  
  
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vue-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/react-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
