@@ -17,7 +17,6 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine learning and Data Science.\
 ✍️ &nbsp;Apart from technical interests, I like watching movies, playing **basketball** reading novels. \
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions \
-✉️ &nbsp;You can email me at blockmasterdev0307@gmail.com. I'll try to respond as soon as possible!\
 
 ### Languages and Tools
 
